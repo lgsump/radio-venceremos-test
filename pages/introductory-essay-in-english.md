@@ -17,7 +17,6 @@ Radio Venceremos was the radio-broadcasted program that served as propaganda and
 For many of these Latin American countries during their revolutions against the authoritarian regimes, the rise of technology and invention of radios became integral to their communication with ordinary citizens, as the literacy rates were extremely low. Many of these revolutionary movements had programs for literacy in mind, much like those of the Cuban Revolution. The ability to lead a movement that was so connected to the ordinary Salvadoran is what has led to the strength and sustainability of the FMLN, which continues to be a major political party even to this day. 
 <br>
 <hr>
-<br>
 <h3>Bibliography</h3>
 <br>
 Ramos, Carlos Guillermo. “State Reform after the Peace Accords - Berghof-Foundation.org.” Berghof Foundation, 2015. https://berghof-foundation.org/files/publications/Paper-1-El-Salvador-english-layout-final.pdf. 
