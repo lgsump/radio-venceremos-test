@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://lgsump.github.io/radio-venceremos-test/spanish-recording-annotations/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Spanish Recording Annotations" ] },
+    "label": { "en": [ "Spanish Recording Annotations, 05-20-1981" ] },
     "homepage": [
       {
         "id": "https://archive.org/details/lp_enigma-variations-haydn-variations_sir-edward-elgar-johannes-brahms-pierre-mo_0/disc1/01.01.+Enigma+Variations%2C+Op.+36+(Part+1).mp3",
         "type": "Text",
-        "label": { "en": [ "Spanish Recording Annotations" ] },
+        "label": { "en": [ "Spanish Recording Annotations, 05-20-1981" ] },
         "format": "text/html"
       }
     ],
