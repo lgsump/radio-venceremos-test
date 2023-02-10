@@ -23,6 +23,16 @@
         "id": "https://lgsump.github.io/radio-venceremos-test/spanish-recording-annotations/canvas-1/canvas",
         "type": "Canvas",
         "duration": 405,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/radio-venceremos-test/annotations/spanish-recording-annotations-canvas-1-tbd.json",
+            "label": {
+              "none": ["TBD"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://lgsump.github.io/radio-venceremos-test/spanish-recording-annotations/canvas-1/paintings",
