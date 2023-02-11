@@ -1,6 +1,6 @@
 ---
 layout: item
-title: Spanish Recording Annotations
+title: Spanish Annotations 05-20-1981
 manifest_name: spanish-recording-annotations
 permalink: spanish-recording-annotations
 external_manifest_url: 
