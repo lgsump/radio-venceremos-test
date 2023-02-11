@@ -20,7 +20,7 @@ Radio Venceremos was the radio-broadcasted program that served as propaganda and
 <img width="539" alt="Screen Shot 2023-02-10 at 5 31 08 PM" src="https://user-images.githubusercontent.com/122332459/218221634-2da09cae-eada-4591-a788-b44951cc871f.png">
 <br>
 <h6><i>Radio Venceremos</i> at work. From <a href="https://swling.com/blog/2019/06/radio-venceremos-a-salvadoran-civil-war-underground-station/">The SWLing Post</a></h6>
-For many of these Latin American countries during their revolutions against the authoritarian regimes, the rise of technology and invention of radios became integral to their communication with ordinary citizens, as the literacy rates were extremely low. Many of these revolutionary movements had programs for literacy in mind, much like those of the Cuban Revolution. The ability to lead a movement that was so connected to the ordinary Salvadoran is what has led to the strength and sustainability of the FMLN, which continues to be a major political party even to this day. 
+For many of these Latin American countries during their revolutions against the authoritarian regimes, the rise of technology and wide-spread accessibility of radios became integral to their communication with ordinary citizens, as the literacy rates were extremely low. Many of these revolutionary movements had programs for literacy in mind, much like those of the Cuban Revolution. The ability to lead a movement that was so connected to the ordinary Salvadoran is what has led to the strength and sustainability of the FMLN, which continues to be a major political party even to this day. 
 <br>
 <hr>
 <h3>Bibliography</h3>
