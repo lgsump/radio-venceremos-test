@@ -1,8 +1,8 @@
 ---
 layout: item
-title: 1981-05-20, Anotaciones en éspañol 
-manifest_name: anotaciones-en-éspañol
-permalink: anotaciones-en-éspañol
+title: 1981-05-20, Anotaciones en español 
+manifest_name: anotaciones-en-español
+permalink: anotaciones-en-español
 external_manifest_url: 
 
 ---
