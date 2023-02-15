@@ -1,8 +1,8 @@
 ---
 layout: item
-title: English Recording Annotations, 05-20-1981
-manifest_name: english-recording-annotations-05-20-1981
-permalink: english-recording-annotations-05-20-1981
+title: 1981-05-20, Annotations in English
+manifest_name: 1981-05-20-annotations-in-english
+permalink: 1981-05-20-annotations-in-english
 external_manifest_url: 
 
 ---
