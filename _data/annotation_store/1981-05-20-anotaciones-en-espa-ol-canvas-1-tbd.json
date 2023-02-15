@@ -1,0 +1,316 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-test/annotations/1981-05-20-anotaciones-en-espa-ol-canvas-1-tbd.json",
+  "type": "AnnotationPage",
+  "label": "TBD",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-anotaciones-en-espa-ol-canvas-1-tbd-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Ametralladora",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-anotaciones-en-espa-ol/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "9.917962,22.41021"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-anotaciones-en-espa-ol-canvas-1-tbd-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Ametralladora",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-anotaciones-en-espa-ol/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "279.944081,292.127276"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-anotaciones-en-espa-ol-canvas-1-tbd-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Venceremos, venceremos, mil cadenas habrá que romper. Venceremos, venceremos, la miseria sabremos vencer.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-anotaciones-en-espa-ol/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "292.785827,326.872469"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-anotaciones-en-espa-ol-canvas-1-tbd-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Todos juntos seremos la historia a cumplir, a cumplir, a cumplir. Venceremos, venceremos, mil cadenas habrá que romper. Venceremos, venceremos, la miseria sabremos vencer. Venceremos, venceremos, mil cadenas habrá que romper. Venceremos, venceremos, la miseria sabremos vencer.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-anotaciones-en-espa-ol/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "352.195859,394.535332"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-anotaciones-en-espa-ol-canvas-1-tbd-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SUCA exige libertad de refugiados salvadoreños detenidos en Honduras. El Consejo Superior Universitario Centroamericano hizo un llamado a la autoridades hondureñas para que respeten la vida e integridad de los refugiados salvadoreños detenidos y exigió su inmediata libertad.  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-anotaciones-en-espa-ol/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "37.178202,63.285702"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-anotaciones-en-espa-ol-canvas-1-tbd-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Y así mismo, a la preocupación de la Universidad Autónoma de Honduras, ante la detención y desaparición de 14 refugiados salvadoreños en Tegucigalpa, entre los que se encuentran estudiantes universitarios y cuatro niños. Agrega el comunicado que el hecho se ha admitido inicialmente por las autoridades hondureñas y negado por varios puestos del ejercito hondureño, lo cual aumenta la preocupación por la seguridad personal de estos compatriotas.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-anotaciones-en-espa-ol/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "63.684243,102.111939"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-anotaciones-en-espa-ol-canvas-1-tbd-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "La semana pasada en la población de Corinto en Morazán se produjo un enfrentamiento entre guardias nacionales contra los patrulleros paramilitares, resultando heridos dos agentes de la guardia nacional. Posteriormente llego un helicóptero y desarmaron a todos los paramilitares y se llevaron las armas.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-anotaciones-en-espa-ol/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "114.387607,136.786239"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-anotaciones-en-espa-ol-canvas-1-tbd-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Hemos recibido informes que en la pista aérea de la ciudad de Gotera, cabecera departamental de Morazán, una noche de la semana pasada se registro un enfrentamiento entre soldados y oficiales pertenecientes al cuartel de contrainsurgencia que dejo como saldo un oficial muerto y varios soldados gravemente heridos. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-anotaciones-en-espa-ol/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "137.389295,160.896175"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-anotaciones-en-espa-ol-canvas-1-tbd-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Ante los comentarios de la población quisieron ocultar sus fuertes contradicciones afirmando que habían sido atacados por mas de 200 guerrilleros.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-anotaciones-en-espa-ol/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "161.388306,174.159986"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-anotaciones-en-espa-ol-canvas-1-tbd-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Duarte, un hombre de paja, afirma expresidente de Venezuela. El expresidente venezolano Carlos Andres Perez, declaro en Caracas que los imperialistas norteamericanos afirman engañosamente, que en America Latina lo que existe es una lucha entre comunismo y anticomunismo, y consideran a los militares mas reaccionarios como la mejor garantía de sus intereses. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-anotaciones-en-espa-ol/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "182.714437,215.57308"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-anotaciones-en-espa-ol-canvas-1-tbd-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "El exmandatario afirmo que el problema en America Latina no es el comunismo sino el respecto a los derechos. Así mismo, dijo que al identificarse la linea política de Venezuela con la nueva política del gobierno de Estados Unidos, el país suramericano esta cayendo en una grave confusion.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-anotaciones-en-espa-ol/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "216.28337,241.436909"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-anotaciones-en-espa-ol-canvas-1-tbd-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Aunque la realidad es que en El Salvador gobiernan los militares que torturan y violan los derechos humanos.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-anotaciones-en-espa-ol/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "266.003686,275.191135"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-anotaciones-en-espa-ol-canvas-1-tbd-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Unidos para combatir hasta la victoria final, revolución o muerte, venceremos.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-anotaciones-en-espa-ol/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "339.426076,348.366468"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-anotaciones-en-espa-ol-canvas-1-tbd-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "De esta manera Radio Venceremos, voz oficial del Frente Farabundo Martí para la Liberación Nacional llega al final de sus emisiones de esta hora. Radio Venceremos todos los días en el aire de 6 a 7  en la mañana y de 6 a 7 en la tarde. Radio Venceremos, expresión del poder popular sobre territorios controlados por nuestro pueblo en armas.  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-anotaciones-en-espa-ol/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "308.543893"
+        }
+      }
+    }
+  ]
+}
