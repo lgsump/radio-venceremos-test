@@ -1,8 +1,8 @@
 ---
 layout: item
-title: Spanish Annotations 05-20-1981
-manifest_name: spanish-recording-annotations
-permalink: spanish-recording-annotations
+title: 1981-05-20, Anotaciones en éspañol 
+manifest_name: anotaciones-en-éspañol
+permalink: anotaciones-en-éspañol
 external_manifest_url: 
 
 ---
