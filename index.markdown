@@ -5,7 +5,7 @@
 layout: home
 ---
 <br>
-<h2> The Power, Utility, and Reality of Radio in Revolution</h2>
+<h2> The Sounds of War</h2>
 <hr>
 <img width="459" alt="Screen Shot 2023-02-10 at 6 49 09 PM" src="https://user-images.githubusercontent.com/122332459/218227951-0b39412c-2a5e-4be6-bc74-3233c31852f7.png">
 <br>
