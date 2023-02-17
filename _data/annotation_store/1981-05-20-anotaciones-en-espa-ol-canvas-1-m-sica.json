@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-test/annotations/1981-05-20-anotaciones-en-espa-ol-canvas-1-m-sica.json",
+  "type": "AnnotationPage",
+  "label": "Música",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-anotaciones-en-espa-ol-canvas-1-m-sica-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Venceremos, venceremos, mil cadenas habrá que romper. Venceremos, venceremos, la miseria sabremos vencer.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-anotaciones-en-espa-ol/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "292.785827,326.872469"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-anotaciones-en-espa-ol-canvas-1-m-sica-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Todos juntos seremos la historia a cumplir, a cumplir, a cumplir. Venceremos, venceremos, mil cadenas habrá que romper. Venceremos, venceremos, la miseria sabremos vencer. Venceremos, venceremos, mil cadenas habrá que romper. Venceremos, venceremos, la miseria sabremos vencer.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-anotaciones-en-espa-ol/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "352.195859,394.535332"
+        }
+      }
+    }
+  ]
+}

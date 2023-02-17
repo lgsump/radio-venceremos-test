@@ -1,0 +1,96 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-test/annotations/1981-05-20-anotaciones-en-espa-ol-canvas-1-contexto-pol-tico.json",
+  "type": "AnnotationPage",
+  "label": "Contexto político",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-anotaciones-en-espa-ol-canvas-1-contexto-pol-tico-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SUCA exige libertad de refugiados salvadoreños detenidos en Honduras. El Consejo Superior Universitario Centroamericano hizo un llamado a la autoridades hondureñas para que respeten la vida e integridad de los refugiados salvadoreños detenidos y exigió su inmediata libertad.  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-anotaciones-en-espa-ol/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "37.178202,63.285702"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-anotaciones-en-espa-ol-canvas-1-contexto-pol-tico-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Ante los comentarios de la población quisieron ocultar sus fuertes contradicciones afirmando que habían sido atacados por mas de 200 guerrilleros.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-anotaciones-en-espa-ol/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "161.388306,174.159986"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-anotaciones-en-espa-ol-canvas-1-contexto-pol-tico-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Duarte, un hombre de paja, afirma expresidente de Venezuela. El expresidente venezolano Carlos Andres Perez, declaro en Caracas que los imperialistas norteamericanos afirman engañosamente, que en America Latina lo que existe es una lucha entre comunismo y anticomunismo, y consideran a los militares mas reaccionarios como la mejor garantía de sus intereses. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-anotaciones-en-espa-ol/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "182.714437,215.57308"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-anotaciones-en-espa-ol-canvas-1-contexto-pol-tico-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "El exmandatario afirmo que el problema en America Latina no es el comunismo sino el respecto a los derechos. Así mismo, dijo que al identificarse la linea política de Venezuela con la nueva política del gobierno de Estados Unidos, el país suramericano esta cayendo en una grave confusion.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-anotaciones-en-espa-ol/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "216.28337,241.436909"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-test/annotations/1981-05-20-anotaciones-en-espa-ol-canvas-1-radio-venceremos.json",
+  "type": "AnnotationPage",
+  "label": "Radio Venceremos",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-anotaciones-en-espa-ol-canvas-1-radio-venceremos-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Aunque la realidad es que en El Salvador gobiernan los militares que torturan y violan los derechos humanos.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-anotaciones-en-espa-ol/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "266.003686,275.191135"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-anotaciones-en-espa-ol-canvas-1-radio-venceremos-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Unidos para combatir hasta la victoria final, revolución o muerte, venceremos.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-anotaciones-en-espa-ol/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "339.426076,348.366468"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-anotaciones-en-espa-ol-canvas-1-radio-venceremos-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "De esta manera Radio Venceremos, voz oficial del Frente Farabundo Martí para la Liberación Nacional llega al final de sus emisiones de esta hora. Radio Venceremos todos los días en el aire de 6 a 7  en la mañana y de 6 a 7 en la tarde. Radio Venceremos, expresión del poder popular sobre territorios controlados por nuestro pueblo en armas.  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-anotaciones-en-espa-ol/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "308.543893"
+        }
+      }
+    }
+  ]
+}
