@@ -23,16 +23,6 @@
         "id": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-annotations-in-english/canvas-1/canvas",
         "type": "Canvas",
         "duration": 405,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/radio-venceremos-test/annotations/1981-05-20-annotations-in-english-canvas-1-tbd.json",
-            "label": {
-              "none": ["TBD"]
-            }
-          }
-        ],
         "items": [
           {
             "id": "https://lgsump.github.io/radio-venceremos-test/1981-05-20-annotations-in-english/canvas-1/paintings",
