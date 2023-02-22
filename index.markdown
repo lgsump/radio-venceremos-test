@@ -6,7 +6,9 @@ layout: home
 ---
 <br>
 <h2> The Sounds of War</h2>
+<h4> The Violence Reported in <i>Radio Venceremos</i> Broadcasts, 1981-1990
 <hr>
+<br>
 <img width="459" alt="Screen Shot 2023-02-10 at 6 49 09 PM" src="https://user-images.githubusercontent.com/122332459/218227951-0b39412c-2a5e-4be6-bc74-3233c31852f7.png">
 <br>
 <h6>From "R-Radio Venceremos" on <a href="https://www.facebook.com/photo/?fbid=130351969093452&set=a.130351955760120">Facebook</a>.</h6>
