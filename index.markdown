@@ -5,7 +5,7 @@
 layout: home
 ---
 <br>
-<h2> The Sounds of War</h2>
+<h2> The Sounds of War:</h2>
 <h4> The Violence Reported in <i>Radio Venceremos</i> Broadcasts, 1981-1990
 <hr>
 <br>
