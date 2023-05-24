@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-test/annotations/may-27th-test-canvas-1-entrevistador-masacre.json",
+  "type": "AnnotationPage",
+  "label": "Entrevistador/Masacre",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-27th-test-canvas-1-entrevistador-masacre-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "¿Aquí fue donde encontraron a un niño de dos días de nacido atravesado por un corvo?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/may-27th-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1508.0,1512.0"
+        }
+      }
+    }
+  ]
+}

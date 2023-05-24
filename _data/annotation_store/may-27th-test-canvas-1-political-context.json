@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-test/annotations/may-27th-test-canvas-1-political-context.json",
+  "type": "AnnotationPage",
+  "label": "Political context",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-27th-test-canvas-1-political-context-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Como le repito, a nosotros nos mintieron, decían que los cuilios traían periodistas extranjeros, y que adelante de los periodistas extranjeros ellos no podían matar los niños ni las mujeres indefensos. Hablo del capitán Medina Garay, sí fue, los acercó para allá él cuando vino.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/may-27th-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1986.0,2010.0"
+        }
+      }
+    }
+  ]
+}

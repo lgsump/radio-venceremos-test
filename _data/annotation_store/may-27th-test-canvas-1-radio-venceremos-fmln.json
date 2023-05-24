@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-test/annotations/may-27th-test-canvas-1-radio-venceremos-fmln.json",
+  "type": "AnnotationPage",
+  "label": "Radio Venceremos/FMLN",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-27th-test-canvas-1-radio-venceremos-fmln-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Transmite Radio Venceremos, voz oficial del Frente Farabundo Martí para la Liberación Nacional. Emitiendo su señal de libertad desde El Salvador, Centroamérica, territorio en combate contra la opresión y el imperialismo.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/may-27th-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "232.0,251.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-27th-test-canvas-1-radio-venceremos-fmln-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Radio Venceremos, voz oficial del Frente Farabundo Martí, voz del pueblo salvadoreño en armas. Salud heroico pueblo salvadoreño. Radio Venceremos te saluda. El presente es de lucha, el futuro es nuestro.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/may-27th-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "484.0,507.0"
+        }
+      }
+    }
+  ]
+}

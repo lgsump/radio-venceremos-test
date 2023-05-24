@@ -1,0 +1,74 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-test/annotations/may-27th-test-canvas-1-entrevista-masacre.json",
+  "type": "AnnotationPage",
+  "label": "Entrevista/Masacre",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-27th-test-canvas-1-entrevista-masacre-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Victoria Chica.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/may-27th-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2018.0,2019.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-27th-test-canvas-1-entrevista-masacre-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Seis. Mi mamá se llamaba Rosa Otilia Díaz. Agustina Chica, Matildita Chica, Rosa Delia Chica, Mariano Chica y Pedrito Chica.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/may-27th-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2077.0,2089.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "may-27th-test-canvas-1-entrevista-masacre-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sí, yo me salí porque como ella me mandó, no podía quedarme más en la casa.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-test/may-27th-test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2093.0,2098.0"
+        }
+      }
+    }
+  ]
+}
